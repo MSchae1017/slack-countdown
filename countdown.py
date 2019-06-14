@@ -198,33 +198,33 @@ def post(out, days_left):
                   #51
                   "", 
                   #52
-                  "", 
+                  "https://c8.alamy.com/comp/RCBD1N/arlington-tx-usa-29th-dec-2018-clemson-player-austin-spence-52-in-action-at-the-ncaa-football-cotton-bowl-between-the-clemson-tigers-and-the-notre-dame-fighting-irish-at-att-stadium-in-arlington-tx-absolute-complete-photographer-company-credit-joe-calomenimarinmediaorgcal-sport-media-credit-csmalamy-live-news-RCBD1N.jpg", 
                   #53
-                  "", 
+                  "https://editorial01.shutterstock.com/wm-preview-1500/9629348n/cba4ffd7/ncaa-football-clemson-spring-game-clemson-usa-shutterstock-editorial-9629348n.jpg", 
                   #54
-                  "", 
+                  "https://c8.alamy.com/comp/K3G5TW/clemson-defensive-end-logan-rudolph-54-during-the-ncaa-college-football-K3G5TW.jpg", 
                   #55
-                  "", 
+                  "https://usattci.files.wordpress.com/2017/03/tyrone-crowder.jpg?w=1000&h=600&crop=1", 
                   #56
-                  "", 
+                  "https://clemsontigers.com/wp-content/uploads/2016/10/MMKSXFNULCPYMBB.20161011182420.jpg", 
                   #57
-                  "", 
+                  "https://usattci.files.wordpress.com/2019/01/tre-lamar-1.jpg?w=1000&h=600&crop=1", 
                   #58
-                  "", 
+                  "https://c8.alamy.com/comp/PXBRNH/clemson-tigers-defensive-tackle-jordan-williams-59-during-the-ncaa-college-football-game-between-nc-state-and-clemson-on-saturday-october-20-2018-at-memorial-stadium-in-clemson-sc-jacob-kupfermancsm-PXBRNH.jpg", 
                   #59
-                  "",
+                  "https://usattci.files.wordpress.com/2019/02/gage-cervenka-1.jpg?w=1000&h=600&crop=1",
                   #60
-                  "", 
+                  "https://media.gettyimages.com/photos/jesse-pickens-of-the-clemson-tigers-rests-betweeen-plays-during-a-picture-id53567178", 
                   #61
-                  "", 
+                  "https://lh3.googleusercontent.com/-v3BouxrDaYo/UKU9tICl2eI/AAAAAAAAotI/sJsanS4pAZc/s800/DSC_0187.jpg", 
                   #62
-                  "", 
+                  "https://s3media.247sports.com/Uploads/Assets/761/640/8640761.jpg", 
                   #63
-                  "", 
+                  "https://cdn.vox-cdn.com/thumbor/ok4sldLBDn6Y3GG4I0esGskHJMQ=/0x0:1926x2780/1200x800/filters:focal(532x727:840x1035)/cdn.vox-cdn.com/uploads/chorus_image/image/53634513/usa_today_9288226.0.jpg", 
                   #64
-                  "", 
+                  "https://clemsonpaws.com/wp-content/uploads/2017/07/Pat-Godfrey.jpg", 
                   #65
-                  "", 
+                  "https://pbs.twimg.com/profile_images/1116946681306730496/6T7xngOa_400x400.jpg", 
                   #66
                   "http://www.soconsports.com/pics31/1024/HQ/HQPPHOFVIWADLXP.20100805163708.jpg", 
                   #67
